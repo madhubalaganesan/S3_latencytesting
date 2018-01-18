@@ -1,0 +1,17 @@
+classification of services in AWS
+what is amazon s3?
+how did we set up java sdk environment for aws
+service clients - java aws
+creating
+list
+upload
+delete
+
+latency - upload & download - graph
+
+jcloud - what is it?
+how did we set up?
+create
+kist
+upload
+delete

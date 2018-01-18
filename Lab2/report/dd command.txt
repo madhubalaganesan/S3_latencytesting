@@ -1,0 +1,1 @@
+dd if=/dev/zero of=D:\Academics\PERCCOM_Academics\Semester3_Skelleftea\CloudServices\Lab2\files\30MB.bin bs=30M count=1
